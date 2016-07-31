@@ -10,5 +10,15 @@
 此项目将微林的服务名作为文件夹名，文件夹下的 `server-list.txt` 记录了相应服务所使用的域名（其中以 `#` 开头的行将被视作为注释），`ip-list.txt` 为与服务所使用域名相对应的 IP 地址。`hostname2ip.sh` 为将域名转换为 IP 地址的脚本。
 
 
+## 授权
+
+此项目中的源代码采用 [MIT 许可证](LICENSE.txt) 进行授权。
+
+```
+The MIT License (MIT)
+Copyright (c) 2016 pallxk <github@pallxk.com>
+```
+
+
 
 [微林]: https://vnet.link/
