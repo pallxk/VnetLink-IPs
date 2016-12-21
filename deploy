@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# 更新服务器 IP 列表，并同步至 git 服务器
+
+cd "$(dirname "$0")"
+git checkout ip-lists
+./hostname2ip
+git commit -a -m"更新服务器 IP 列表 ($(date +%Y%m%d))"
+git push

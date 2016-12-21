@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# 配置 crontab 以自动更新并同步 IP 列表
+
+crontab <(
+	crontab -l 2> /dev/null
+	# 每日凌晨 12:30 定时执行
+	cat <<-EOF
+		30 0 * * * $(dirname $(realpath "$0"))/deploy
+	EOF
+)
+
+crontab -l
