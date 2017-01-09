@@ -6,7 +6,7 @@ basedir=`dirname "$0"`
 server_list_filename="server-list.txt"
 ip_list_filename="ip-list.txt"
 
-for server_list in `echo "$basedir/*/$server_list_filename"`; do
+for server_list in "$basedir"/*/"$server_list_filename"; do
 	ip_list="$(dirname "$server_list")/$ip_list_filename"
 	while read server || [ "$server" ]; do
 		# Output empty line and comment line as is
