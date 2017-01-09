@@ -6,7 +6,7 @@ crontab <(
 	crontab -l 2> /dev/null
 	# 每日凌晨 12:30 定时执行
 	cat <<-EOF
-		30 0 * * * $(dirname $(realpath "$0"))/deploy
+		30 0 * * * "$(dirname "$(realpath "$0")")/deploy"
 	EOF
 )
 
