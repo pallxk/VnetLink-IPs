@@ -4,9 +4,9 @@
 
 crontab <(
 	crontab -l 2> /dev/null
-	# 每日凌晨 12:30 定时执行
+	# 每隔 4 小时在半点定时执行 (00:30, 04:30, 08:30, ...)
 	cat <<-EOF
-		30 0 * * * "$(dirname "$(realpath "$0")")/deploy"
+		30 0-23/4 * * * "$(dirname "$(realpath "$0")")/deploy"
 	EOF
 )
 
