@@ -16,7 +16,7 @@
 
 # 中国 - AliBGP
 # vt-cn5.vnet.link
-112.74.29.119
+120.24.36.48
 
 # 中国 - China Unicom To HK[2]
 # vt-cn6.vnet.link
@@ -25,7 +25,7 @@
 
 # 香港 - AliBGP
 # vt-hk1.vnet.link
-47.52.5.70
+47.52.3.97
 
 # 香港 - PacNet
 # vt-hk2.vnet.link
@@ -57,4 +57,4 @@
 
 # 新加坡 - AliBGP
 # vt-sg2.vnet.link
-47.88.162.26
+139.162.30.94
