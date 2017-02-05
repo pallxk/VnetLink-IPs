@@ -6,5 +6,5 @@ cd "$(dirname "$0")"
 git checkout ip-lists
 git pull --ff-only
 ./hostname2ip
-git commit -a -m"更新服务器 IP 列表 ($(date +%Y%m%d))"
+git commit -a -m"更新服务器 IP 列表 ($(date +%Y%m%dT%H))"
 git push
