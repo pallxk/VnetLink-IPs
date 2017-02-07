@@ -31,6 +31,7 @@
 
 # 香港 - AliBGP
 # vt-hk1.vnet.link
+47.89.49.3
 149.56.99.219
 
 # 香港 - PacNet
