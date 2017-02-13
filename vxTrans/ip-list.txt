@@ -4,6 +4,7 @@
 
 # 中国 - China Telecom
 # vt-cn2.vnet.link
+222.40.142.80
 
 # 中国 - China Telecom To HK[1]
 # vt-cn3.vnet.link
