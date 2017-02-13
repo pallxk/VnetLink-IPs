@@ -8,7 +8,7 @@
 
 # 中国 - China Telecom To HK[1]
 # vt-cn3.vnet.link
-222.40.142.80
+117.28.255.203
 
 # 中国 - CMCC HNG
 # vt-cn4.vnet.link
@@ -18,7 +18,7 @@
 
 # 中国 - AliBGP
 # vt-cn5.vnet.link
-112.33.2.108
+112.74.29.119
 120.76.117.149
 
 # 中国 - China Unicom To HK[2]
@@ -28,8 +28,8 @@
 
 # 香港 - AliBGP
 # vt-hk1.vnet.link
+47.89.42.188
 47.89.50.129
-112.33.5.79
 
 # 香港 - PacNet
 # vt-hk2.vnet.link
