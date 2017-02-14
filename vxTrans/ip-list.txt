@@ -1,10 +1,10 @@
 # 中国 - China Unicom
 # vt-cn1.vnet.link
-112.33.2.169
+36.250.75.27
 
 # 中国 - China Telecom
 # vt-cn2.vnet.link
-222.40.142.80
+117.28.255.203
 
 # 中国 - China Telecom To HK[1]
 # vt-cn3.vnet.link
