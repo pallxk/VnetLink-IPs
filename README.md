@@ -23,7 +23,7 @@
 
 ```
 The MIT License (MIT)
-Copyright (c) 2016 pallxk <github@pallxk.com>
+Copyright (c) 2017 pallxk <github@pallxk.com>
 ```
 
 
