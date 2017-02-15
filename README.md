@@ -17,6 +17,21 @@
 * `setup-crontab` 为配置 crontab 以定时执行 `deploy` 的脚本。
 
 
+## 代码分支
+
+* **master** 分支为默认分支，包含了项目当前的最新代码，以及微林服务的域名列表，但不包含域名对应的 IP 列表；
+* **ip-lists** 分支定期从 master 分支合并代码，并包含最新的微林服务对应的 IP 列表。
+
+如果想要获取代码，并查看最新的 IP 列表，可以执行以下命令：
+
+```sh
+# 克隆仓库
+git clone https://github.com/pallxk/VnetLink-IPs.git
+# 切换分支
+git checkout ip-lists
+```
+
+
 ## 授权
 
 此项目中的源代码采用 [MIT 许可证](LICENSE.txt) 进行授权。
