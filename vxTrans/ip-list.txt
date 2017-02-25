@@ -4,9 +4,9 @@
 
 # 中国 - China Telecom
 # vt-cn2.vnet.link
-222.40.142.80
+117.28.255.203
 
-# 中国 - China Telecom To HK[1]
+# 中国 - China Telecom Optimized
 # vt-cn3.vnet.link
 117.28.255.203
 
@@ -21,9 +21,13 @@
 112.74.29.119
 120.76.117.149
 
-# 中国 - China Unicom To HK[2]
+# 中国 - China Unicom Optimized
 # vt-cn6.vnet.link
 36.250.75.27
+
+# 中国 - CMCC Optimized
+# vt-cn7.vnet.link
+222.40.142.80
 
 
 # 香港 - AliBGP
@@ -51,7 +55,7 @@
 45.32.140.222
 
 
-# 法国 - GTT
+# 法国 - NTT
 # vt-fr1.vnet.link
 108.61.197.148
 
