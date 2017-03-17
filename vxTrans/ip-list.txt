@@ -8,7 +8,7 @@
 
 # 中国 - China Telecom Optimized
 # vt-cn3.vnet.link
-117.28.255.203
+222.40.142.80
 
 # 中国 - CMCC HNG
 # vt-cn4.vnet.link
@@ -56,7 +56,7 @@
 
 # 法国 - NTT
 # vt-fr1.vnet.link
-108.61.197.148
+107.191.63.20
 
 
 # 新加坡 - SingTel
