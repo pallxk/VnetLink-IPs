@@ -4,7 +4,7 @@
 
 # 中国 - China Telecom
 # vt-cn2.vnet.link
-117.28.255.203
+222.40.142.80
 
 # 中国 - China Telecom Optimized
 # vt-cn3.vnet.link
@@ -42,7 +42,7 @@
 
 # 日本 - KDDI
 # vt-jp1.vnet.link
-106.185.33.71
+139.162.82.147
 
 # 日本 - NTT
 # vt-jp2.vnet.link
