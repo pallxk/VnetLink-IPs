@@ -1,2 +1,5 @@
 # cloud.vnet.link
-192.99.12.76
+
+; <<>> DiG 9.11.0-P2 <<>> cloud.vnet.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
