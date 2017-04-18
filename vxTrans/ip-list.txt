@@ -26,7 +26,7 @@
 
 # 中国 - CMCC Optimized
 # vt-cn7.vnet.link
-222.40.142.80
+222.40.142.90
 
 
 # 香港 - AliBGP
