@@ -8,6 +8,7 @@
 
 # 中国 - China Telecom Optimized
 # vt-cn3.vnet.link
+117.28.255.203
 
 # 中国 - CMCC HNG
 # vt-cn4.vnet.link
@@ -17,7 +18,6 @@
 # 中国 - AliBGP
 # vt-cn5.vnet.link
 119.23.38.60
-120.77.212.174
 
 # 中国 - China Unicom Optimized
 # vt-cn6.vnet.link
