@@ -17,6 +17,8 @@
 
 # 中国 - AliBGP
 # vt-cn5.vnet.link
+119.23.38.60
+120.77.212.174
 
 # 中国 - China Unicom Optimized
 # vt-cn6.vnet.link
