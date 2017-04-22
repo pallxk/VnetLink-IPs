@@ -8,7 +8,6 @@
 
 # 中国 - China Telecom Optimized
 # vt-cn3.vnet.link
-117.28.255.203
 
 # 中国 - CMCC HNG
 # vt-cn4.vnet.link
