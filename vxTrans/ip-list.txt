@@ -4,6 +4,7 @@
 
 # 中国 - China Telecom
 # vt-cn2.vnet.link
+117.28.255.203
 
 # 中国 - China Telecom Optimized
 # vt-cn3.vnet.link
@@ -16,7 +17,6 @@
 
 # 中国 - AliBGP
 # vt-cn5.vnet.link
-119.23.38.60
 
 # 中国 - China Unicom Optimized
 # vt-cn6.vnet.link
