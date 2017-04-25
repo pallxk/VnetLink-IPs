@@ -1,49 +1,52 @@
 # 中国 - China Unicom
-vt-cn1.vnet.link
+cn1.vxtrans.link
 
 # 中国 - China Telecom
-vt-cn2.vnet.link
+cn2.vxtrans.link
 
 # 中国 - China Telecom Optimized
-vt-cn3.vnet.link
+cn3.vxtrans.link
 
 # 中国 - CMCC HNG
-vt-cn4.vnet.link
+cn4.vxtrans.link
 
-# 中国 - AliBGP
-vt-cn5.vnet.link
+# 中国(南部) - AliBGP
+cn5.vxtrans.link
 
 # 中国 - China Unicom Optimized
-vt-cn6.vnet.link
+cn6.vxtrans.link
 
 # 中国 - CMCC Optimized
-vt-cn7.vnet.link
+cn7.vxtrans.link
+
+# 中国(东部) - AliBGP
+cn8.vxtrans.link
 
 
-# 香港 - AliBGP
-vt-hk1.vnet.link
+# 香港 - AliBGP - A
+hk1.vxtrans.link
 
-# 香港 - PacNet
-vt-hk2.vnet.link
+# 香港 - AliBGP - B
+hk2.vxtrans.link
 
 
-# 日本 - KDDI
-vt-jp1.vnet.link
+# 日本 - SoftBank
+jp1.vxtrans.link
 
 # 日本 - NTT
-vt-jp2.vnet.link
+jp2.vxtrans.link
 
 
 # 美国 - NTT
-vt-us1.vnet.link
+us1.vxtrans.link
 
 
 # 法国 - NTT
-vt-fr1.vnet.link
+fr1.vxtrans.link
 
 
 # 新加坡 - SingTel
-vt-sg1.vnet.link
+sg1.vxtrans.link
 
 # 新加坡 - AliBGP
-vt-sg2.vnet.link
+sg2.vxtrans.link
