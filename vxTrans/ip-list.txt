@@ -25,7 +25,7 @@
 
 # 中国 - CMCC Optimized
 # cn7.vxtrans.link
-222.40.142.90
+182.118.8.42
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
