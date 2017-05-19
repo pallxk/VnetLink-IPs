@@ -1,9 +1,6 @@
 # 中国 - China Unicom
 # cn1.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+36.250.75.27
 
 # 中国 - China Telecom
 # cn2.vxtrans.link
@@ -11,24 +8,16 @@
 
 # 中国 - China Telecom Optimized
 # cn3.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn3.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn4.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+112.33.5.79
+112.33.5.176
 
 # 中国(南部) - AliBGP
 # cn5.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn5.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+119.23.38.60
 
 # 中国 - China Unicom Optimized
 # cn6.vxtrans.link
@@ -36,17 +25,11 @@
 
 # 中国 - CMCC Optimized
 # cn7.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn7.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+182.118.8.42
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn8.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+121.43.174.196
 
 
 # 香港 - AliBGP - A
@@ -60,45 +43,27 @@
 
 # 日本 - SoftBank
 # jp1.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> jp1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+47.74.0.219
 
 # 日本 - NTT
 # jp2.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> jp2.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+45.63.123.171
 
 
 # 美国 - NTT
 # us1.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> us1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+45.32.140.222
 
 
 # 法国 - NTT
 # fr1.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> fr1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+107.191.63.20
 
 
 # 新加坡 - SingTel
 # sg1.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> sg1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+118.201.93.18
 
 # 新加坡 - AliBGP
 # sg2.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> sg2.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+47.88.224.55
