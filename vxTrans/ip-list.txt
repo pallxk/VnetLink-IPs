@@ -35,6 +35,7 @@
 # 香港 - AliBGP - A
 # hk1.vxtrans.link
 47.52.47.122
+47.52.56.166
 
 # 香港 - AliBGP - B
 # hk2.vxtrans.link
@@ -66,4 +67,5 @@
 
 # 新加坡 - AliBGP
 # sg2.vxtrans.link
+47.74.129.172
 47.88.224.55
