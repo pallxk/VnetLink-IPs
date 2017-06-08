@@ -4,7 +4,7 @@ cn1.vxtrans.link
 # 中国 - China Telecom
 cn2.vxtrans.link
 
-# 中国 - China Telecom Optimized
+# 中国 - China Optimized - Light
 cn3.vxtrans.link
 
 # 中国 - CMCC HNG
@@ -13,10 +13,10 @@ cn4.vxtrans.link
 # 中国(南部) - AliBGP
 cn5.vxtrans.link
 
-# 中国 - China Unicom Optimized
+# 中国 - China Optimized - Elf
 cn6.vxtrans.link
 
-# 中国 - CMCC Optimized
+# 中国 - China Optimized - Ship
 cn7.vxtrans.link
 
 # 中国(东部) - AliBGP
@@ -41,7 +41,7 @@ jp2.vxtrans.link
 us1.vxtrans.link
 
 
-# 法国 - NTT
+# 法国 - GTT
 fr1.vxtrans.link
 
 
