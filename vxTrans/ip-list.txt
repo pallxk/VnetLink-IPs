@@ -6,7 +6,7 @@
 # cn2.vxtrans.link
 117.28.255.203
 
-# 中国 - China Telecom Optimized
+# 中国 - China Optimized - Light
 # cn3.vxtrans.link
 117.28.255.203
 
@@ -19,11 +19,11 @@
 # cn5.vxtrans.link
 119.23.38.60
 
-# 中国 - China Unicom Optimized
+# 中国 - China Optimized - Elf
 # cn6.vxtrans.link
 36.250.75.27
 
-# 中国 - CMCC Optimized
+# 中国 - China Optimized - Ship
 # cn7.vxtrans.link
 182.118.8.42
 
@@ -55,7 +55,7 @@
 45.32.140.222
 
 
-# 法国 - NTT
+# 法国 - GTT
 # fr1.vxtrans.link
 107.191.63.20
 
