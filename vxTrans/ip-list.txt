@@ -25,17 +25,11 @@
 
 # 中国 - China Optimized - Ship
 # cn7.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn7.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+182.118.8.42
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> cn8.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+121.43.174.196
 
 
 # 香港 - AliBGP - A
