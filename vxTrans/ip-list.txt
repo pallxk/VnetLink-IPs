@@ -57,10 +57,7 @@
 
 # 法国 - GTT
 # fr1.vxtrans.link
-
-; <<>> DiG 9.11.1 <<>> fr1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+107.191.63.20
 
 
 # 新加坡 - SingTel
