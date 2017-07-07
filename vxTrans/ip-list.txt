@@ -66,7 +66,10 @@
 
 # 新加坡 - SingTel
 # sg1.vxtrans.link
-118.201.93.18
+
+; <<>> DiG 9.11.1 <<>> sg1.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
 
 # 新加坡 - AliBGP
 # sg2.vxtrans.link
