@@ -36,14 +36,13 @@
 
 # 香港 - AliBGP - A
 # hk1.vxtrans.link
-47.52.31.167
-47.52.56.166
-47.52.96.250
-47.89.23.49
+47.90.126.43
+hk3.vxtrans.link.
 
 # 香港 - AliBGP - B
 # hk2.vxtrans.link
-47.90.96.32
+47.90.126.43
+hk3.vxtrans.link.
 
 
 # 日本 - SoftBank
