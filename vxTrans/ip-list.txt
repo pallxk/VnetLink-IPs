@@ -51,7 +51,6 @@ hk3.vxtrans.link.
 
 # 日本 - NTT
 # jp2.vxtrans.link
-139.162.82.147
 
 
 # 美国 - NTT
