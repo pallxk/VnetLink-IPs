@@ -51,6 +51,7 @@ hk3.vxtrans.link.
 
 # 日本 - NTT
 # jp2.vxtrans.link
+45.32.57.252
 
 
 # 美国 - NTT
