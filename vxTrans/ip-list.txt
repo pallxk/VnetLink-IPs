@@ -29,7 +29,6 @@
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
-121.43.174.196
 
 
 # 香港 - AliBGP - A
