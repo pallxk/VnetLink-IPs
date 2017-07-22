@@ -1,5 +1,2 @@
 # cloud.vnet.link
-
-; <<>> DiG 9.11.1-P3 <<>> cloud.vnet.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+192.99.12.76
