@@ -16,18 +16,12 @@ cn5.vxtrans.link
 # 中国 - China Optimized - Elf
 cn6.vxtrans.link
 
-# 中国 - China Optimized - Ship
-cn7.vxtrans.link
-
 # 中国(东部) - AliBGP
 cn8.vxtrans.link
 
 
-# 香港 - AliBGP - A
-hk1.vxtrans.link
-
-# 香港 - AliBGP - B
-hk2.vxtrans.link
+# 香港 - AliBGP
+hk3.vxtrans.link
 
 
 # 日本 - SoftBank
