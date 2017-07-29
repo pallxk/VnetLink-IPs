@@ -23,24 +23,14 @@
 # cn6.vxtrans.link
 36.250.75.27
 
-# 中国 - China Optimized - Ship
-# cn7.vxtrans.link
-182.118.8.42
-
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
 121.43.174.196
 
 
-# 香港 - AliBGP - A
-# hk1.vxtrans.link
+# 香港 - AliBGP
+# hk3.vxtrans.link
 47.90.126.43
-hk3.vxtrans.link.
-
-# 香港 - AliBGP - B
-# hk2.vxtrans.link
-47.90.126.43
-hk3.vxtrans.link.
 
 
 # 日本 - SoftBank
