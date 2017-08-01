@@ -17,6 +17,7 @@
 
 # 中国(南部) - AliBGP
 # cn5.vxtrans.link
+119.23.38.60
 
 # 中国 - China Optimized - Elf
 # cn6.vxtrans.link
@@ -24,7 +25,6 @@
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
-121.43.174.196
 
 
 # 香港 - AliBGP
