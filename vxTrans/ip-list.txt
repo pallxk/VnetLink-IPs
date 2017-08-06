@@ -1,3 +1,7 @@
+# 中国 - China Telecom CN2 Pro
+# cn0.vxtrans.link
+117.28.255.204
+
 # 中国 - China Unicom
 # cn1.vxtrans.link
 36.250.75.27
@@ -26,6 +30,10 @@
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
 121.43.174.196
+
+# 中国 - China Telecom EU2 Pro
+# cn9.vxtrans.link
+117.28.255.204
 
 
 # 香港 - AliBGP
