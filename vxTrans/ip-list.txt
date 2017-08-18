@@ -16,7 +16,6 @@
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
-112.33.5.176
 
 # 中国(南部) - AliBGP
 # cn5.vxtrans.link
