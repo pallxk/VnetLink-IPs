@@ -1,16 +1,10 @@
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
-
-; <<>> DiG 9.11.2 <<>> cn0.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+117.28.255.204
 
 # 中国 - China Unicom
 # cn1.vxtrans.link
-
-; <<>> DiG 9.11.2 <<>> cn1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+36.250.75.27
 
 # 中国 - China Telecom
 # cn2.vxtrans.link
@@ -18,10 +12,7 @@
 
 # 中国 - China Optimized - Light
 # cn3.vxtrans.link
-
-; <<>> DiG 9.11.2 <<>> cn3.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
