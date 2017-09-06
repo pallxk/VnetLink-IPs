@@ -22,7 +22,6 @@
 
 # 中国(南部) - AliBGP
 # cn5.vxtrans.link
-119.23.56.198
 
 # 中国 - China Optimized - Elf
 # cn6.vxtrans.link
