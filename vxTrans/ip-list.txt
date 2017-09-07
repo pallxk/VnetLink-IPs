@@ -30,6 +30,7 @@
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
+116.62.134.64
 
 # 中国 - China Telecom EU2 Pro
 # cn9.vxtrans.link
