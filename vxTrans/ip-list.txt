@@ -12,7 +12,7 @@
 
 # 中国 - China Optimized - Light
 # cn3.vxtrans.link
-47.90.126.43
+117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
