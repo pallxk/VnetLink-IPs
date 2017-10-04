@@ -8,11 +8,11 @@
 
 # 中国 - China Telecom
 # cn2.vxtrans.link
-117.28.255.203
+47.90.126.43
 
 # 中国 - China Optimized - Light
 # cn3.vxtrans.link
-117.28.255.203
+47.90.126.43
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
