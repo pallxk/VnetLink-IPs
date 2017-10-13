@@ -4,7 +4,7 @@
 
 # 中国 - China Unicom
 # cn1.vxtrans.link
-36.250.75.27
+182.118.8.54
 
 # 中国 - China Telecom
 # cn2.vxtrans.link
@@ -26,7 +26,7 @@
 
 # 中国 - China Optimized - Elf
 # cn6.vxtrans.link
-36.250.75.27
+182.118.8.54
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
