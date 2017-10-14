@@ -1,23 +1,51 @@
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
 
+; <<>> DiG 9.11.2 <<>> cn0.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
+
 # 中国 - China Unicom
 # cn1.vxtrans.link
+
+; <<>> DiG 9.11.2 <<>> cn1.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
 
 # 中国 - China Telecom
 # cn2.vxtrans.link
 
+; <<>> DiG 9.11.2 <<>> cn2.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
+
 # 中国 - China Optimized - Light
 # cn3.vxtrans.link
+
+; <<>> DiG 9.11.2 <<>> cn3.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
 
+; <<>> DiG 9.11.2 <<>> cn4.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
+
 # 中国(南部) - AliBGP
 # cn5.vxtrans.link
 
+; <<>> DiG 9.11.2 <<>> cn5.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
+
 # 中国 - China Optimized - Elf
 # cn6.vxtrans.link
+
+; <<>> DiG 9.11.2 <<>> cn6.vxtrans.link +short
+;; connection timed out; no servers could be reached
+;; global options: +cmd
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
