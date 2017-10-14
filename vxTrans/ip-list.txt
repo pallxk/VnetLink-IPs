@@ -1,52 +1,71 @@
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
+117.28.255.204
 
 # 中国 - China Unicom
 # cn1.vxtrans.link
+182.118.8.54
 
 # 中国 - China Telecom
 # cn2.vxtrans.link
+117.28.255.203
 
 # 中国 - China Optimized - Light
 # cn3.vxtrans.link
+117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
+112.33.2.108
+112.33.5.79
+112.33.5.176
 
 # 中国(南部) - AliBGP
 # cn5.vxtrans.link
+119.23.56.198
 
 # 中国 - China Optimized - Elf
 # cn6.vxtrans.link
+182.118.8.54
 
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
+116.62.134.64
 
 # 中国 - China Telecom EU2 Pro
 # cn9.vxtrans.link
+117.28.255.204
 
 
 # 香港 - AliBGP
 # hk3.vxtrans.link
+47.52.25.105
 
 
 # 日本 - SoftBank
 # jp1.vxtrans.link
+47.74.0.219
+47.74.34.98
 
 # 日本 - NTT
 # jp2.vxtrans.link
+45.32.57.252
 
 
 # 美国 - NTT
 # us1.vxtrans.link
+45.77.4.155
 
 
 # 法国 - GTT
 # fr1.vxtrans.link
+45.32.153.126
 
 
 # 新加坡 - SingTel
 # sg1.vxtrans.link
+118.201.93.18
 
 # 新加坡 - AliBGP
 # sg2.vxtrans.link
+47.74.129.172
