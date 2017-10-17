@@ -39,7 +39,7 @@
 
 # 香港 - AliBGP
 # hk3.vxtrans.link
-47.52.25.105
+47.90.126.43
 
 
 # 日本 - SoftBank
@@ -49,7 +49,7 @@
 
 # 日本 - NTT
 # jp2.vxtrans.link
-45.32.57.252
+45.76.51.227
 
 
 # 美国 - NTT
