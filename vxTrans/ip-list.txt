@@ -44,7 +44,7 @@
 
 # 日本 - SoftBank
 # jp1.vxtrans.link
-47.74.6.235
+47.74.34.43
 
 # 日本 - NTT
 # jp2.vxtrans.link
