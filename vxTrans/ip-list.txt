@@ -44,7 +44,7 @@
 
 # 日本 - SoftBank
 # jp1.vxtrans.link
-47.74.11.24
+47.74.6.235
 
 # 日本 - NTT
 # jp2.vxtrans.link
@@ -67,4 +67,4 @@
 
 # 新加坡 - AliBGP
 # sg2.vxtrans.link
-47.74.131.149
+47.74.178.83
