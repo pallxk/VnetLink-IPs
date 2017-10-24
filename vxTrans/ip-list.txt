@@ -44,16 +44,16 @@
 
 # 日本 - SoftBank
 # jp1.vxtrans.link
-47.74.6.235
+47.74.11.24
 
 # 日本 - NTT
 # jp2.vxtrans.link
-45.32.54.23
+45.76.206.70
 
 
 # 美国 - NTT
 # us1.vxtrans.link
-104.207.149.188
+45.77.187.217
 
 
 # 法国 - GTT
@@ -67,4 +67,4 @@
 
 # 新加坡 - AliBGP
 # sg2.vxtrans.link
-47.74.178.83
+47.74.131.149
