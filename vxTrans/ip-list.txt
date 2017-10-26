@@ -1,3 +1,11 @@
+# [SSLT] 中国 - China Unicom
+# cns.vxtrans.link
+182.118.8.54
+
+# [SSLT] 香港 - AliBGP
+# hks.vxtrans.link
+47.91.234.73
+
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
 117.28.255.204
