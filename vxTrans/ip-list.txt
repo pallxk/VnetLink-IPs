@@ -4,7 +4,7 @@
 
 # [SSLT] 香港 - AliBGP
 # hks.vxtrans.link
-47.91.234.73
+47.91.245.211
 
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
