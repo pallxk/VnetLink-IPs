@@ -1,11 +1,3 @@
-# [SSLT] 中国 - China Unicom
-# cns.vxtrans.link
-182.118.8.54
-
-# [SSLT] 香港 - AliBGP
-# hks.vxtrans.link
-47.91.245.211
-
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
 117.28.255.204
@@ -18,10 +10,6 @@
 # cn2.vxtrans.link
 117.28.255.203
 
-# 中国 - China Optimized - Light
-# cn3.vxtrans.link
-117.28.255.203
-
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
 112.33.5.79
@@ -31,17 +19,9 @@
 # cn5.vxtrans.link
 119.23.56.198
 
-# 中国 - China Optimized - Elf
-# cn6.vxtrans.link
-182.118.8.54
-
 # 中国(东部) - AliBGP
 # cn8.vxtrans.link
 116.62.134.64
-
-# 中国 - China Telecom EU2 Pro
-# cn9.vxtrans.link
-117.28.255.204
 
 
 # 香港 - AliBGP
