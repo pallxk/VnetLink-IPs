@@ -27,17 +27,17 @@ jp1.vxtrans.link
 # 日本 - NTT
 jp2.vxtrans.link
 
+# 日本 - KK
+jp3.vxtrans.link
+
 
 # 美国 - NTT
 us1.vxtrans.link
 
 
-# 法国 - GTT
+# 法国 - NTT
 fr1.vxtrans.link
 
-
-# 新加坡 - SingTel
-sg1.vxtrans.link
 
 # 新加坡 - AliBGP
 sg2.vxtrans.link
