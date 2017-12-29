@@ -25,7 +25,7 @@
 
 # 香港 - AliBGP
 # hk3.vxtrans.link
-47.52.56.166
+47.91.245.211
 
 
 # 日本 - SoftBank
