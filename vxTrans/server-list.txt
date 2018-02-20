@@ -18,26 +18,27 @@ cn8.vxtrans.link
 
 
 # 香港 - AliBGP
-hk3.vxtrans.link
+p-hk.vxtrans.link
 
 
 # 日本 - SoftBank
-jp1.vxtrans.link
+p-jp.vxtrans.link
 
 # 日本 - NTT
-jp2.vxtrans.link
-
-# 日本 - KK
-jp3.vxtrans.link
+b-jp.vxtrans.link
 
 
-# 美国 - NTT
-us1.vxtrans.link
+# 美国 - PCCW
+b-us.vxtrans.link
 
 
 # 法国 - NTT
-fr1.vxtrans.link
+b-fr.vxtrans.link
 
 
-# 新加坡 - AliBGP
-sg2.vxtrans.link
+# 新加坡 - interQ
+b-sg.vxtrans.link
+
+
+# 俄罗斯 - RTelecom
+b-ru.vxtrans.link
