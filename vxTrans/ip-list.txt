@@ -24,26 +24,34 @@
 
 
 # 香港 - AliBGP
-# hk3.vxtrans.link
+# p-hk.vxtrans.link
+47.75.42.140
 
 
 # 日本 - SoftBank
-# jp1.vxtrans.link
+# p-jp.vxtrans.link
+47.74.0.219
 
 # 日本 - NTT
-# jp2.vxtrans.link
-
-# 日本 - KK
-# jp3.vxtrans.link
+# b-jp.vxtrans.link
+172.105.228.116
 
 
-# 美国 - NTT
-# us1.vxtrans.link
+# 美国 - PCCW
+# b-us.vxtrans.link
+168.235.104.122
 
 
 # 法国 - NTT
-# fr1.vxtrans.link
+# b-fr.vxtrans.link
+104.238.159.228
 
 
-# 新加坡 - AliBGP
-# sg2.vxtrans.link
+# 新加坡 - interQ
+# b-sg.vxtrans.link
+163.44.159.8
+
+
+# 俄罗斯 - RTelecom
+# b-ru.vxtrans.link
+83.217.10.161
