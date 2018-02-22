@@ -21,7 +21,7 @@ cn8.vxtrans.link
 p-hk.vxtrans.link
 
 
-# 日本 - SoftBank
+# 日本 - IIJ
 p-jp.vxtrans.link
 
 # 日本 - NTT
