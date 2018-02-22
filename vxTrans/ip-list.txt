@@ -28,9 +28,9 @@
 47.75.42.140
 
 
-# 日本 - SoftBank
+# 日本 - IIJ
 # p-jp.vxtrans.link
-47.74.0.219
+150.95.139.48
 
 # 日本 - NTT
 # b-jp.vxtrans.link
