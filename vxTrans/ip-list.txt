@@ -30,7 +30,7 @@
 
 # 日本 - IIJ
 # p-jp.vxtrans.link
-150.95.139.48
+150.95.176.121
 
 # 日本 - NTT
 # b-jp.vxtrans.link
@@ -49,7 +49,7 @@
 
 # 新加坡 - interQ
 # b-sg.vxtrans.link
-163.44.159.8
+163.44.148.175
 
 
 # 俄罗斯 - RTelecom
