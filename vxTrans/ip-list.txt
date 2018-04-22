@@ -6,20 +6,16 @@
 # cn1.vxtrans.link
 182.118.8.54
 
-# 中国 - China Telecom
-# cn2.vxtrans.link
+# 中国 - China Telecom(Next Carrier Network)
+# ex2.vxtrans.link
 117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
 112.33.5.79
 
-# 中国(南部) - AliBGP
+# 中国 - AliBGP
 # cn5.vxtrans.link
-119.23.56.198
-
-# 中国(东部) - AliBGP
-# cn8.vxtrans.link
 119.23.56.198
 
 
@@ -50,8 +46,3 @@
 # 新加坡 - interQ
 # b-sg.vxtrans.link
 163.44.148.175
-
-
-# 俄罗斯 - RTelecom
-# b-ru.vxtrans.link
-83.217.10.161
