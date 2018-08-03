@@ -1,81 +1,48 @@
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> cn0.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+117.28.255.204
 
 # 中国 - China Unicom
 # cn1.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> cn1.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+182.118.8.54
 
 # 中国 - China Telecom(Next Carrier Network)
 # ex2.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> ex2.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> cn4.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+111.7.73.165
 
 # 中国 - AliBGP
 # cn5.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> cn5.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+119.23.56.198
 
 
 # 香港 - AliBGP
 # p-hk.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> p-hk.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+47.75.42.140
 
 
 # 日本 - IIJ
 # p-jp.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> p-jp.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+150.95.176.121
 
 # 日本 - NTT
 # b-jp.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> b-jp.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+139.162.101.97
 
 
 # 美国 - PCCW
 # b-us.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> b-us.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+104.200.25.176
 
 
 # 法国 - NTT
 # b-fr.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> b-fr.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+212.111.42.61
 
 
 # 新加坡 - interQ
 # b-sg.vxtrans.link
-
-; <<>> DiG 9.13.0 <<>> b-sg.vxtrans.link +short
-;; connection timed out; no servers could be reached
-;; global options: +cmd
+139.162.1.53
