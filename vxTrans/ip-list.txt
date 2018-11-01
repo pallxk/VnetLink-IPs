@@ -35,7 +35,6 @@
 
 # 美国 - PCCW
 # b-us.vxtrans.link
-47.74.129.158
 47.88.50.73
 
 
@@ -46,3 +45,4 @@
 
 # 新加坡 - interQ
 # b-sg.vxtrans.link
+47.74.129.158
