@@ -12,7 +12,6 @@
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
-111.7.73.165
 
 # 中国 - AliBGP
 # cn5.vxtrans.link
@@ -21,28 +20,22 @@
 
 # 香港 - AliBGP
 # p-hk.vxtrans.link
-47.75.42.140
 
 
 # 日本 - IIJ
 # p-jp.vxtrans.link
-150.95.176.121
 
 # 日本 - NTT
 # b-jp.vxtrans.link
-160.16.212.253
 
 
 # 美国 - PCCW
 # b-us.vxtrans.link
-47.88.50.73
 
 
 # 法国 - NTT
 # b-fr.vxtrans.link
-212.111.42.61
 
 
 # 新加坡 - interQ
 # b-sg.vxtrans.link
-47.74.129.158
