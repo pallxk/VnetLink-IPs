@@ -16,6 +16,7 @@
 
 # 中国 - AliBGP
 # cn5.vxtrans.link
+119.23.56.198
 
 
 # 香港 - AliBGP
