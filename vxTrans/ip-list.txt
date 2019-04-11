@@ -21,6 +21,7 @@
 # 香港 - AliBGP
 # p-hk.vxtrans.link
 47.52.216.94
+47.52.216.217
 
 
 # 日本 - IIJ
