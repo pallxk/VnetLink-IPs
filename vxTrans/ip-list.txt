@@ -8,7 +8,6 @@
 
 # 中国 - China Telecom(Next Carrier Network)
 # ex2.vxtrans.link
-117.28.255.203
 
 # 中国 - CMCC HNG
 # cn4.vxtrans.link
