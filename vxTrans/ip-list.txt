@@ -1,6 +1,6 @@
 # 中国 - China Telecom CN2 Pro
 # cn0.vxtrans.link
-119.23.56.198
+117.28.255.203
 
 # 中国 - China Unicom
 # cn1.vxtrans.link
